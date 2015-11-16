@@ -1,0 +1,2 @@
+# quickbootvega ok
+ok
